@@ -1,0 +1,37 @@
+h1 {
+    padding: 16px;
+    color: blue;
+    text-align: center;
+    background: cyan;
+    margin-top: 0%;
+    text-shadow: -6px 4px 4px rgb(111, 111, 172);
+    font-size: 50px;
+}
+#div1 {
+    background: linear-gradient(to right, red, blue);
+    height: 100px;
+    font-size: 30px;
+}
+#div3 {
+    background: linear-gradient(45deg, red, blue);
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+}
+#div4 {
+    background: linear-gradient(90deg, red, blue);
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+}
+#div2 {
+    background: linear-gradient(to left, red, blue);
+    height: 100px;
+    font-size: 30px;
+}
+#div5 {
+    background: radial-gradient(red, blue);
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+}
